@@ -1,5 +1,4 @@
 # Custom-Emoji-Face-Generator
-Uses OOP Principles in Java and JavaFX
 The Emoji Face Generator App is a Java-based application designed to create 
 customised emoji faces using Object-Oriented Programming (OOP) concepts and 
 JavaFX. This application allows users to dynamically generate emoji faces by 
